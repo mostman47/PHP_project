@@ -1,0 +1,11 @@
+#error small:before
+{
+	content: 'error: ';
+	color: red;
+}
+.v-center {
+    display:table !important;
+}
+.table td {
+   text-align: center;   
+}
